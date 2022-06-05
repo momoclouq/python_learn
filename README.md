@@ -6,6 +6,7 @@ Note: use `git bash`!!!
 - Install python using [python homepage](https://www.python.org/downloads/)
 - Install pipx using pip [pipx install guide](https://pypi.org/project/pipx)
 - Install virtualenv via pipx [installation guide](https://virtualenv.pypa.io/en/latest/installation.html)
+- Note: In case virtualenv command not found error -> add virtualenv to PATH [guide](https://www.java.com/en/download/help/path.html)
 - Initialize virtualenv [guide](https://pythonbasics.org/virtualenv/), shortcut run Script on Windows: 
 ```bash
 virtualenv -p python3 testproject
