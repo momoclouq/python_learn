@@ -11,6 +11,10 @@ Note: use `git bash`!!!
 virtualenv -p python3 testproject
 cd testproject
 source Scripts/activate
+
+or 
+...
+source testproject/Scripts/activate
 ```
 - Install any dependencies you need
 - run `pip freeze > requirements.txt` to place all the dependencies in a text file to be committed
@@ -18,4 +22,5 @@ source Scripts/activate
 
 ## Run on another machine
 - Create your own virtualenv instance (guide above)
-- run `pip install -r requirements.txt` to install from requirements.txt file
+- Start the env
+- Run `pip install -r requirements.txt` to install from requirements.txt file
