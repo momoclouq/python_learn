@@ -1,5 +1,6 @@
 ## What was being learned
-- https://www.learnpython.org/en/Lists  
+- https://realpython.com/learning-paths/python3-introduction/
+- 
 
 ## setup python on windows
 Note: use `git bash`!!!  
@@ -25,3 +26,10 @@ source testproject/Scripts/activate
 - Create your own virtualenv instance (guide above)
 - Start the env
 - Run `pip install -r requirements.txt` to install from requirements.txt file
+
+## ignore pycache
+- add `**/__pycache__/` to .gitignore
+
+## linting
+- [vscode setup](https://code.visualstudio.com/docs/python/linting#:~:text=Run%20linting%23,when%20you%20save%20a%20file.)
+- [what is linter and which to choose](https://realpython.com/python-code-quality/)

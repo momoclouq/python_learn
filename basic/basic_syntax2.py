@@ -33,6 +33,8 @@
 #     if number % 2 == 0:
 #         print(str(number) + "-");
 
+import class2
+
 def sum_of_two(a, b):
     return a + b;
 
@@ -40,4 +42,10 @@ print(sum_of_two(12, 13));
 
 def list_benefits():
     return ["More code", "More readable", "Easier code"];
-    
+
+list1 = [1, 2, 3];
+list2 = [1, 2, 3];
+print(list1 == list2);
+print(list1 is list2);
+
+call_me();
