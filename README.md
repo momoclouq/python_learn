@@ -1,6 +1,9 @@
 ## What was being learned
-- https://realpython.com/learning-paths/python3-introduction/
-- 
+- Done
+
+## resource
+- realpython
+- programiz
 
 ## setup python on windows
 Note: use `git bash`!!!  
