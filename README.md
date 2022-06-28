@@ -36,3 +36,6 @@ source testproject/Scripts/activate
 ## linting
 - [vscode setup](https://code.visualstudio.com/docs/python/linting#:~:text=Run%20linting%23,when%20you%20save%20a%20file.)
 - [what is linter and which to choose](https://realpython.com/python-code-quality/)
+
+## vscode pylance error not finding the package
+- [guide to change interpreter for python](https://stackoverflow.com/questions/66266640/pylancereportmissingmodulesource-error-in-vs-code-while-using-django)
